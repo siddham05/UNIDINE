@@ -1,0 +1,9 @@
+.promo-banner-bg {
+    background: #494747 url('../img/banner.jpg') center top;
+    background-position: center top;
+    background-position-x: center;
+    background-clip: padding-box;
+    background-blend-mode: multiply;
+    background-size: cover; /* Ensure the background image covers the entire container */
+    height: 1000px; /* Adjust the height as needed */
+}
