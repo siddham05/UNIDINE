@@ -266,11 +266,11 @@ CREATE TABLE `shop` (
 --
 
 INSERT INTO `shop` (`s_username`, `s_pwd`, `s_name`, `s_location`, `s_email`, `s_phoneno`, `s_pic`, `s_id`) VALUES
-('shop1', 'Shop1@vasavi', 'Vasavi Tea & Snacks', 'Point-1', 'shop01@email.com', '7569395349', 'shop2.png', 2),
-('shop2', '12344321', 'Vasavi Bakery', 'Point-2', 'shop02@email.com', '7569395349', 'shop-2.png', 3),
-('shop3', '12121212', 'Vasavi Food Court', 'Point-3', 'shop3@gmail.com', '7569395349', 'shop4.png', 4),
-('shop4', '34343434', 'Vasavi Tiffins', 'Point-4', 'shop4@gmail.com', '7569395349', 'shop5.jpg', 5),
-('shop5', '56565656', 'Vasavi Juice Corner', 'Point-5', 'shop5@gmail.com', '7569395349', 'shop6.jpg', 6);
+('shop1', 'Shop1@vasavi', 'Kathi House', 'Point-1', 'shop01@email.com', '7569395349', 'shop2.png', 2),
+('shop2', '12344321', 'Chai Ok', 'Point-2', 'shop02@email.com', '7569395349', 'shop-2.png', 3),
+('shop3', '12121212', 'Hotspot', 'Point-3', 'shop3@gmail.com', '7569395349', 'shop4.png', 4),
+('shop4', '34343434', 'Southern Stories', 'Point-4', 'shop4@gmail.com', '7569395349', 'shop5.jpg', 5),
+('shop5', '56565656', 'The Urban Kitchen', 'Point-5', 'shop5@gmail.com', '7569395349', 'shop6.jpg', 6);
 
 --
 -- Indexes for dumped tables
