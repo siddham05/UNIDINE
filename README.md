@@ -3,7 +3,7 @@
 ONLINE-CANTEEN-FOOD-ORDERING-SYSTEM-USING-PHP Project
 
 ## Project Description
-UNIDINE is an online canteen food ordering and management system based on case scenario at Sri Vasavi Engineering College,Pedatadepalli. This system has 2 main group of users, customer and admin. Customer can view shop and menu list, add item to the cart, place the order pay for order, and view their order history.Admin can edit respective shop information, manage their menus, manage customer orders, and view revenue report.
+UNIDINE is an online canteen food ordering and management system based on case scenario at Bennett University,Greater Noida. This system has 2 main group of users, customer and admin. Customer can view shop and menu list, add item to the cart, place the order pay for order, and view their order history.Admin can edit respective shop information, manage their menus, manage customer orders, and view revenue report.
 
 
 
